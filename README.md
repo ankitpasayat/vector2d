@@ -1,2 +1,6 @@
-# vector2d
-High level 2d Vectors functions in pure Python
+# Vector2d
+
++ **vec2d.py** : High-level 2d vector functions in pure Python
+
++ **particles.py** : Collision physics functions in pure Python
+
